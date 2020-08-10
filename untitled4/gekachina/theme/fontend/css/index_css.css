@@ -1,0 +1,529 @@
+#logo{
+    margin-left:30px ;
+}
+.header{
+    margin-right: 100px;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+#searchBar{
+    margin-left: 1000px;
+}
+.navbar-nav a{
+    vertical-align: middle;
+}
+div {
+    display: block;
+}
+.en{
+    margin-left: 1100px;
+}
+.search {
+    margin-left: 1000px;
+
+}
+.picture{
+    background-image: url("http://www.gekachina.com/uploads/img1/20190110/5c36a3fda2a46.jpg");
+    background-size: auto auto;
+}
+input[type="image" i] {
+    appearance: initial;
+    background-color: initial;
+    cursor: pointer;
+    padding: initial;
+    border: initial;
+    border-color: initial;
+    border-radius: initial;
+}
+.banner {
+    position: relative;
+}
+.form-inline{
+    margin-left: 920px;
+}
+.solution_title {
+    font-size: 34px;
+    text-align: center;
+    color: #8c8c8c;
+    background: url(http://www.gekachina.com/Public/Home/default/images/title_1.png) center no-repeat;
+    background-size: auto auto;
+    line-height: 36px;
+}
+.solution_nav {
+    overflow: hidden;
+    padding: 30px 0;
+}
+ul {
+    list-style: none;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.solution_nav li {
+    float: left;
+    padding-left: 20px;
+}
+.solution_nav li a {
+    width: 386px;
+    font-size: 24px;
+    line-height: 40px;
+    display: block;
+    text-align: center;
+    background: #e3e8eb;
+    border-bottom: 6px solid #bec3c7;
+    padding: 20px 0;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color: #666;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.tab_con {
+    overflow: hidden;
+}
+.solution_bottom {
+    padding-bottom: 60px;
+}
+.navs {
+    width: 290px;
+    height: 590px;
+    float: left;
+    overflow: hidden;
+    background: #191919;
+}
+.navs ul li {
+    color: #fff;
+    padding: 18px 30px;
+    overflow: hidden;
+}
+.navs ul li a {
+    color: #fff;
+}
+.navs_bottom {
+    width: 910px;
+    float: left;
+}
+.advantage_bg {
+    height: 1080px;
+    background: url(http://www.gekachina.com/Public/Home/default/images/bg_1_en.jpg) top center no-repeat;
+    background-size: auto auto;
+}
+.advantage {
+    width: 1200px;
+    margin: 0 auto;
+}
+.advantage_title {
+    text-align: center;
+    font-size: 16px;
+    padding-top: 153px;
+}
+.advantage_bottom {
+    position: relative;
+}
+.advantage_img {
+    text-align: center;
+    padding-top: 254px;
+}
+.advantage_1 {
+    position: absolute;
+    top: 270px;
+    left: 0;
+}
+.advantage_2 {
+    position: absolute;
+    top: 80px;
+    left: 430px;
+}
+.advantage_3 {
+    position: absolute;
+    top: 270px;
+    right: 0px;
+}
+.advantage_4 {
+    position: absolute;
+    top: 700px;
+    left: 200px;
+}
+.advantage_5 {
+    position: absolute;
+    top: 700px;
+    right: 100px;
+}
+.adTitle {
+    line-height: 50px;
+}
+.adTitle i {
+    background: url(http://www.gekachina.com/Public/Home/default/images/icon_4.png) no-repeat;
+    background-size: auto auto;
+    padding: 14px 36px;
+    font-size: 30px;
+    color: #fff;
+    font-style: normal;
+    font-family: impact;
+}
+.adTitle span {
+    font-size: 25px;
+    color: #00A1E9;
+    padding-left: 14px;
+}
+.adText {
+    width: 340px;
+    padding-top: 20px;
+    line-height: 30px;
+    font-size: 16px;
+}
+.ban2_bg {
+    background: url(http://www.gekachina.com/Public/Home/default/images/bg_2.jpg) top center no-repeat;
+    background-size: auto auto;
+    height: 350px;
+}
+.ban2 {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+}
+.ban2 strong {
+    display: block;
+    color: #00a2ea;
+    font-size: 56px;
+    text-transform: uppercase;
+    line-height: 64px;
+    padding-bottom: 15px;
+}
+.ban2 span {
+    font-size: 20px;
+    color: #fff;
+}
+.tel {
+    width: 360px;
+    background: url(http://www.gekachina.com/Public/Home/default/images/tel.png) left center no-repeat;
+    background-size: auto auto;
+    text-align: left;
+    color: #fff;
+    padding-left: 80px;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.tel span {
+    display: block;
+    font-family: impact;
+    font-size: 38px;
+    line-height: 46px;
+    color: #00a2ea;
+}
+.about_bg {
+    height: 600px;
+    background: url(http://www.gekachina.com/Public/Home/default/images/bg_3.jpg) top center no-repeat;
+    background-size: auto auto;
+}
+.about {
+    width: 1200px;
+    margin: 0 auto;
+}
+.about_title {
+    text-align: center;
+    padding-top: 64px;
+}
+.about_title strong {
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 32px;
+    display: block;
+}
+.about_title i {
+    font-style: normal;
+    font-size: 18px;
+    color: #999;
+    line-height: 40px;
+}
+.about dl {
+    padding-top: 40px;
+    overflow: hidden;
+}
+.about dt {
+    width: 600px;
+    float: left;
+}
+.about dd {
+    width: 580px;
+    float: right;
+}
+.about a.more {
+    padding: 10px 50px;
+    color: #fff;
+    font-size: 16px;
+    line-height: 40px;
+    background: #00A1E9;
+    border-radius: 7px;
+}
+.photo_bg {
+    background: #f6f6f6;
+}
+.photo {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 60px 0;
+    position: relative;
+}
+.photo ul {
+    width: 1020px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+#Left_Honor {
+    top: 130px;
+    left: 0px;
+}
+#Right_Honor {
+    top: 130px;
+    right: 0px;
+}
+.photo ul li {
+    width: 340px;
+    float: left;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #666;
+}
+.photo ul li img {
+    width: 308px;
+    height: 207px;
+    border: 3px solid #fff;
+    border-radius: 4px;
+}
+img {
+    border: none;
+    vertical-align: middle;
+}
+.inputs:hover {
+    background: #00A1E9;
+    border-color: #00A1E9;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+}
+.inputs {
+    position: absolute;
+    border: 2px solid #666;
+    border-radius: 100px;
+    display: block;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    font-size: 50px;
+    font-family: SimSun;
+}
+a {
+    text-decoration: none;
+    color: #666;
+}
+a:-webkit-any-link:active {
+    color: -webkit-activelink;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.carousel-thumbnails .carousel-inner .carousel-item img{
+    height: 400px;
+    width: auto;
+}
+.middle_9 {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.middle_9_title {
+    text-align: center;
+    background: url(http://www.gekachina.com/Public/Home/default/images/title_2.jpg) center 16px no-repeat;
+}
+.middle_9_title strong {
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 28px;
+    display: block;
+    color: #079EF7;
+}
+.middle_9_title span {
+    font-style: normal;
+    font-size: 18px;
+    color: #999;
+    line-height: 36px;
+}
+.middle_9_b {
+    overflow: hidden;
+    margin-top: 50px;
+}
+.middle_9_b_l {
+    float: left;
+    width: 724px;
+    height: 350px;
+    background: url(http://www.gekachina.com/Public/Home/default/images/bg_5.gif) 155px 0 no-repeat;
+}
+.middle_9_b_l li {
+    overflow: hidden;
+    padding: 10px 0;
+}
+.news-lis {
+    width: 164px;
+    height: 94px;
+    background: url(http://www.gekachina.com/Public/Home/default/images/ico_3.png) 0px 0px;
+    float: left;
+    color: #fff;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.h3, h3 {
+    font-size: 1.75rem;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+}
+.news-liss {
+    width: 485px;
+    height: 85px;
+    float: right;
+    margin-right: 30px;
+    border-bottom: dashed 1px #ccc;
+    padding-top: 4px;
+}
+.news-lis span {
+    display: block;
+    padding: 20px 0 0 20px;
+}
+.news-lis h1 {
+    font-size: 36px;
+    padding-left: 6px;
+    line-height: 34px;
+}
+.news-lis small {
+    font-size: 14px;
+}
+.news-liss h3 {
+    font-size: 18px;
+    padding-bottom: 4px;
+    font-weight: normal;
+    color: #00a2ea;
+}
+.news-liss h3 a {
+    color: #929ba2;
+}
+.news-liss p {
+    color: #929ba2;
+    font-size: 14px;
+    line-height: 24px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.middle_9_b_r {
+    width: 448px;
+    float: right;
+}
+.middle_9_b_r img {
+    width: 448px;
+    height: 179px;
+    padding-bottom: 30px;
+}
+.middle_9_b_r a {
+    font-size: 20px;
+    color: #666;
+    line-height: 20px;
+}
+.middle_9_b_r p {
+    font-size: 14px;
+    color: #999;
+    line-height: 24px;
+    padding-top: 10px;
+}
+.bottoms {
+    background: #cacaca;
+    padding-top: 40px;
+}
+.b_nav {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    background: url(http://www.gekachina.com/Public/Home/default/images/bg_6.gif) bottom center no-repeat;
+    padding-bottom: 20px;
+}
+
+.b_nav a {
+    padding: 0 18px;
+    font-size: 16px;
+}
+.bottoms_b {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding-bottom: 40px;
+}
+.bottoms_b dl {
+    background: url(http://www.gekachina.com/Public/Home/default/images/b_logo.gif) 30px 30px no-repeat;
+    padding-left: 520px;
+    overflow: hidden;
+}
+.bottoms_b dl dt {
+    width: 454px;
+    font-size: 16px;
+    line-height: 28px;
+    float: left;
+    padding-right: 50px;
+}
+a {
+    text-decoration: none;
+    color: #666;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+element.style {
+    font-size: 22px;
+}
+.bottoms_b dl dd {
+    float: left;
+}
+.copyright {
+    background: #00A1E9;
+    padding: 16px 0;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+}
+
+.middle_9_b_r a {
+    font-size: 20px;
+    color: #666;
+    line-height: 20px;
+}
